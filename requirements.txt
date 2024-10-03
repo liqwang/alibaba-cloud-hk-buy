@@ -1,0 +1,1 @@
+alibabacloud-swas-open20200601==3.0.0
