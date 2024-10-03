@@ -12,3 +12,5 @@
 > 40GB ESSD \
 > 1TB 流量 \
 > 30Mbps 带宽 
+
+~~相关链接：[阿里云的Python SDK一股Java味](https://www.xiaohongshu.com/explore/66f92545000000001902ee83)~~
